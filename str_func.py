@@ -1,4 +1,4 @@
-def str_upper(word):
+def str_upper(str_word):
     '''возвращает строку со всеми заглавными буквами'''
     return word.upper()
 
